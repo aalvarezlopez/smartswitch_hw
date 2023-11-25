@@ -1,0 +1,6 @@
+*.pdf
+production
+*.csv
+*.xml
+**backups
+**cache
