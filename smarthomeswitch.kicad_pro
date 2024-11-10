@@ -85,7 +85,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
@@ -124,7 +124,8 @@
         0.254,
         0.3556,
         0.4572,
-        0.508
+        0.508,
+        0.7112
       ],
       "via_dimensions": [
         {
@@ -434,23 +435,19 @@
       ""
     ],
     [
-      "1b467577-dd64-4df1-a5b3-9cf62db51ea5",
-      "Radiator"
-    ],
-    [
-      "0eafa097-963d-4dd2-8ee8-49aa28373f5b",
-      "power"
-    ],
-    [
-      "e42fa8fb-2c39-4c93-9a13-0ce72ab26726",
+      "9c6be437-2052-43f3-9f69-f005f04e4ac8",
       "ethernet"
     ],
     [
-      "fcd9532b-319e-4fe3-8cf6-ed2b790805bf",
-      "Windows"
+      "881a3511-f443-47f9-a647-cb0f92ec3b90",
+      "TOP PCB"
     ],
     [
-      "3d304ecf-9822-40b3-8d41-44f1801e67d2",
+      "177462cd-67f0-4e9f-b116-05ff6d3bda6d",
+      "BOTTOM PCB"
+    ],
+    [
+      "0a13d605-a963-471f-a3ec-dd663017f3c7",
       "touchkey"
     ]
   ],
